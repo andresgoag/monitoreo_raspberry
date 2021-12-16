@@ -1,0 +1,4 @@
+paho-mqtt
+libscrc
+pyserial
+bitstring
